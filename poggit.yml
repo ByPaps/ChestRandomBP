@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ByPaps/ChestRandomBP
+build-by-default: true
+
+branches:
+- main
+
+projects:
+  ChestRandomBP:
+    path: ""
+    icon: "ChestRandomBP.png"
+...
