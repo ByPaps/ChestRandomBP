@@ -1,0 +1,30 @@
+#
+#        _|\____________________,,__
+#       / `--|||||||||||-----------_] Plugin by Dev ByPaps
+#      /_==o ____________________|
+#        ),---.(_(__) /
+#       // (\) )
+#      //___/ /
+#     /`----'/
+#    /____ / 
+#  This Plugin Was Developed By Empresas BP de S.A de C.V
+#  The use of this plugin is private, until the moment it is made public, but please do not modify the Author of the same.
+#  This program is free software: you can redistribute it and/or modify
+#  it under the terms of the GNU Lesser General Public License as published by
+#  the Free Software Foundation, either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  Autor: Dev ByPaps
+#  YouTube: Developer ByPaps
+#  GitHub: ByPaps
+#
+
+items:
+  - "4:0:32" # forma: itemid:itemdata:quantity     nice website for ids: https://minecraft-ids.grahamedgecombe.com/
+  - "1:0:64"
+  - "264:0:1"
+  - "280:0:3"
+  - "320:0:5"
+  - "366:0:4"
+  - "351:4:4"
+  - "265:0:2"

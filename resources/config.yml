@@ -1,0 +1,30 @@
+#
+#        _|\____________________,,__
+#       / `--|||||||||||-----------_] Plugin by Dev ByPaps
+#      /_==o ____________________|
+#        ),---.(_(__) /
+#       // (\) )
+#      //___/ /
+#     /`----'/
+#    /____ / 
+#  This Plugin Was Developed By Empresas BP de S.A de C.V
+#  The use of this plugin is private, until the moment it is made public, but please do not modify the Author of the same.
+#  This program is free software: you can redistribute it and/or modify
+#  it under the terms of the GNU Lesser General Public License as published by
+#  the Free Software Foundation, either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  Autor: Dev ByPaps
+#  YouTube: Developer ByPaps
+#  GitHub: ByPaps
+#
+
+spawn_interval: 10 # in seconds
+maximum_chests: 10
+maximum_items_per_chest: 9
+worlds:
+  - name: world
+    max_z: 500
+    min_z: 0
+    max_x: 500
+    min_x: 0

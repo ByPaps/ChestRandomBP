@@ -1,0 +1,8 @@
+name: ChestRandomBP
+main: ByPaps\ChestRandomBP\Main
+version: 1.0.0
+api: 3.0.0
+author: ByPaps
+description: Crea Cofres en lugares Random!.
+
+website: https://github.com/ByPaps/ChestRandomBP
