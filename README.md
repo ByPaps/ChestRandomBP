@@ -26,7 +26,7 @@ The plugin does not contain commands, everything is generated from the modificat
 
 ## 🔧 How to install ChestRandomBP?
 
-1) [Download]() latest stable released version from poggit
+1) [Download](https://github.com/ByPaps/ChestRandomBP/releases/tag/1.0.0) latest stable released version from poggit
 2) Move dowloaded file to your server **/plugins/** folder
 3) Restart the server
 
